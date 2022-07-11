@@ -1,2 +1,2 @@
 # Deep-Learning
-Coursera Specialization affiliated with DeepLearning.AI
+Coursera Specialization affiliated with DeepLearning.AI  
